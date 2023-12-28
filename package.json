@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql-await": "^2.2.3",
+    "node": "^21.2.0",
+    "prompt": "^1.3.0",
+    "pug": "^3.0.2",
+    "tunnel-ssh": "^5.1.1"
+  },
+  "name": "finalproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camden Jones",
+  "license": "ISC",
+  "description": ""
+}
